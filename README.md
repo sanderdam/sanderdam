@@ -1,10 +1,10 @@
 # 👋 Hi there 
 
 My name is Sander Dam. I'm a Senior Software Developer living in the area of Rotterdam in the Netherlands.
-I'm currently 36 years old, married and two daughters.
+I'm 36 years old, married and two daughters.
 
 # 💼 Work
-Currently working at W3S Digital in Rotterdam NL. I'm a Senior Software Engineering working on several projects.
+Currently working at W3S Digital in Rotterdam NL. I'm a Senior Software Engineering working on projects.
 I'm experienced in C# development and working with Azure.
 
 # 🌱 Currently learning
@@ -25,7 +25,7 @@ I'm experienced in C# development and working with Azure.
 
 # Work experience
 
-- In total 15 years of experience as a Software Developer
+In total 15 years of experience as a Software Developer
 - (web) Developer at IT-Workz. IT-Workz is an IT partner for the educational services in The Netherlands
 - (web) Developer at Cinto. Cinto creates software for clubs, union and other associations.
 - Developer for KING Software. KING Software creates software for accountants, warehouses and web shops.
